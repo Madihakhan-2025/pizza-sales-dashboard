@@ -85,3 +85,8 @@ The Pizza Sales Dashboard’s core purpose is to turn raw transaction data into 
 📊 Visual storytelling using cards, charts, and slicers
 
 ⚙️ Basic troubleshooting for Power BI and ChatGPT issues
+
+
+**SNAPSHOT OF DASHBOARD **
+
+<img width="959" height="436" alt="Image" src="https://github.com/user-attachments/assets/620ef02e-9bee-4851-8b02-f034e62216ef" />
