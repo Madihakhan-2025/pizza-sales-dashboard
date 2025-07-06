@@ -22,7 +22,7 @@ o	Developed clean, intuitive charts:
 	Cards for KPIs (revenue, quantity)
 o	Used slicers (month, size) for interactivity
 
-Exlaination:-
+Explanation:-
 
 KPI Cards (Top Row)
 •	Total Revenue: Displays overall sales performance in dollars. 
