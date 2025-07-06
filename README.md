@@ -55,6 +55,7 @@ Slicers: Month and Pizza Size
 •	Interactive filters to adjust visuals:
 o	View trends for specific months
 o	Analyze performance by size (S, M, L, XL)
+<img width="232" height="95" alt="Image" src="https://github.com/user-attachments/assets/0bf635b3-82ea-4d34-b1fe-157e399e9e79" />
 
 Tooltips (Hidden Pages)
 •	Pop-up summaries appear when hovering on visuals
