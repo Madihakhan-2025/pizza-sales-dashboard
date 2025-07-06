@@ -25,7 +25,7 @@ o	Used slicers (month, size) for interactivity
 Exlaination:-
 
 KPI Cards (Top Row)
-•	Total Revenue: Displays overall sales performance in dollars.
+•	Total Revenue: Displays overall sales performance in dollars. 
 •	Average Monthly Revenue: Measures consistent earning power over time
 •	Total Quantity Sold: Indicates volume of pizzas sold — useful for ops planning
 •	Total Orders: Reflects order frequency and customer activity
