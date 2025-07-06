@@ -24,7 +24,7 @@ o	Used slicers (month, size) for interactivity
 
 Explanation:-
 
-KPI Cards (Top Row)
+**KPI Cards (Top Row)**
 •	Total Revenue: Displays overall sales performance in dollars.<img width="141" height="87" alt="Image" src="https://github.com/user-attachments/assets/472cb85e-4a88-4080-92e5-f2150503d499" />
 
 •	Average Monthly Revenue: Measures consistent earning power over time
@@ -33,32 +33,35 @@ KPI Cards (Top Row)
 •	Total Quantity Sold: Indicates volume of pizzas sold — useful for ops planning
 •	Total Orders: Reflects order frequency and customer activity
 
-Monthly and Quarterly Revenue Trends (Combo Chart)
+**Monthly and Quarterly Revenue Trends (Combo Chart)**
 •	Line + Bar combo chart showing revenue by month and quarter
+
 •	Helps identify:
 o	Seasonal peaks or slowdowns
 o	Growth momentum or decline across time
-Top 10 Pizzas by Revenue (Bar Chart)
+
+**Top 10 Pizzas by Revenue (Bar Chart)**
 •	Visualizes the top-selling pizza types
 •	Highlights best-performing products — like big_meat_s
 
-Pizza Category Distribution (Donut/Pie Chart)
+**Pizza Category Distribution (Donut/Pie Chart)**
 •	Breaks down sales by category: Classic, Veggie, Chicken, Supreme
-•	Reveals customer preferences across flavor profiles
+•	Reveals customer preferences across flavor profiles. 
+<img width="175" height="102" alt="Image" src="https://github.com/user-attachments/assets/464b8e50-1385-4954-a4f8-591a0b7e27e2" />
 
-Day vs. Time Sales Patterns (Heatmap or Matrix)
-•	Compares quantity sold by day of the week and time of day
+**Day vs. Time Sales Patterns (Heatmap or Matrix)**
+•	Compares quantity sold by day of the week and time of day.
 •	Pinpoints busy hours (e.g., weekends & evenings) vs. low-demand windows
 Helps with staffing schedules and promo timing
 
-Slicers: Month and Pizza Size
+**Slicers: Month and Pizza Size**
 •	Interactive filters to adjust visuals:
 o	View trends for specific months
 o	Analyze performance by size (S, M, L, XL)
 <img width="232" height="95" alt="Image" src="https://github.com/user-attachments/assets/0bf635b3-82ea-4d34-b1fe-157e399e9e79" />
 
-Tooltips (Hidden Pages)
-•	Pop-up summaries appear when hovering on visuals
+**Tooltips (Hidden Pages)**
+•	Pop-up summaries appear when hovering over visuals
 •	Deliver more details without overwhelming the main page
 5.	Dashboard Optimization
 o	Aligned visuals, added titles, themes, and tooltips for usability
