@@ -51,7 +51,8 @@ o	Growth momentum or decline across time
 
 **Day vs. Time Sales Patterns (Heatmap or Matrix)**
 •	Compares quantity sold by day of the week and time of day.
-•	Pinpoints busy hours (e.g., weekends & evenings) vs. low-demand windows
+•	Pinpoints busy hours (e.g., weekends & evenings) vs. low-demand windows. <img width="154" height="64" alt="Image" src="https://github.com/user-attachments/assets/13a4a008-d8b8-49e2-9af4-ee7750eac3ac" />
+
 Helps with staffing schedules and promo timing
 
 **Slicers: Month and Pizza Size**
